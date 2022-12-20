@@ -1,0 +1,13 @@
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\bin\Debug\CSharpProjectTMusaev.exe.config
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\bin\Debug\CSharpProjectTMusaev.exe
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\bin\Debug\CSharpProjectTMusaev.pdb
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.csproj.AssemblyReference.cache
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.csproj.SuggestedBindingRedirects.cache
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.Form1.resources
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.Properties.Resources.resources
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.csproj.GenerateResource.cache
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.csproj.CoreCompileInputs.cache
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.exe
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.pdb
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.ContactUs.resources
+C:\Users\timam\source\repos\CSharpProjectTMusaev\CSharpProjectTMusaev\obj\Debug\CSharpProjectTMusaev.ViewHelp.resources
